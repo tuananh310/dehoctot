@@ -1,6 +1,6 @@
 import React from 'react';
 import Cookies from 'universal-cookie';
-import './s tyle/style.css';
+import './style/style.css';
 import firebase from 'firebase';
 import { useAuthState } from 'react-firebase-hooks/auth';
 import Chat from './Chat';
